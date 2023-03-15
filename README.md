@@ -55,8 +55,8 @@ class EligibilityforAdmission
 
 
 ## Output:
-![op1](https://user-images.githubusercontent.com/94881918/225387705-337acc5b-c338-4014-ae56-e8b11637f056.jpg)
-![op2](https://user-images.githubusercontent.com/94881918/225387805-4f8565e6-4da1-4a14-9a08-5adf23faa99d.jpg)
+![m1](https://user-images.githubusercontent.com/94881918/225389709-0bd45eb2-24a3-4451-b242-db4dd1dd3b6f.png)
+![m2](https://user-images.githubusercontent.com/94881918/225389859-02cfe81c-4d6d-4ce4-989c-9963ce053666.png)
 
 
 ## Result:
