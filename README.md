@@ -55,8 +55,8 @@ class EligibilityforAdmission
 
 
 ## Output:
-"C:\Users\DELL\Desktop\SEMESTER 2\C#\op1.jpg"
-"C:\Users\DELL\Desktop\SEMESTER 2\C#\op2.jpg"
+![op1](https://user-images.githubusercontent.com/94881918/225387705-337acc5b-c338-4014-ae56-e8b11637f056.jpg)
+![op2](https://user-images.githubusercontent.com/94881918/225387805-4f8565e6-4da1-4a14-9a08-5adf23faa99d.jpg)
 
 
 ## Result:
