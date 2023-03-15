@@ -55,7 +55,8 @@ class EligibilityforAdmission
 
 
 ## Output:
-![output]()
+"C:\Users\DELL\Desktop\SEMESTER 2\C#\op1.jpg"
+"C:\Users\DELL\Desktop\SEMESTER 2\C#\op2.jpg"
 
 
 ## Result:
